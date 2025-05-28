@@ -1,0 +1,29 @@
+[
+  {
+    "stop_gid": "stop_101",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3317,
+    "stop_lon": 77.1012,
+    "stop_desc": "Main bus terminal",
+    "created_at": "2025-05-25T04:05:27.941-05:00",
+    "updated_at": "2025-05-25T04:05:27.941-05:00"
+  },
+  {
+    "stop_gid": "stop_102",
+    "stop_name": "Tumkur City Center",
+    "stop_lat": 13.3399,
+    "stop_lon": 77.1071,
+    "stop_desc": "Central city stop",
+    "created_at": "2025-05-25T04:05:27.941-05:00",
+    "updated_at": "2025-05-25T04:05:27.941-05:00"
+  },
+  {
+    "stop_gid": "stop_103",
+    "stop_name": "Tumkur Court",
+    "stop_lat": 13.344,
+    "stop_lon": 77.1112,
+    "stop_desc": "Court stop",
+    "created_at": "2025-05-25T04:05:27.941-05:00",
+    "updated_at": "2025-05-25T04:05:27.941-05:00"
+  }
+]

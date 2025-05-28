@@ -36,6 +36,9 @@ app.get("/buses", (req, res) => {
   res.json(buses);
 });
 
+// root route
+app.get("/", (req, res) => res.send("Apps worked successfully"));
+
 app.listen(PORT, () => {
   console.log(`Backend server running on http://localhost:${PORT}`);
 });
