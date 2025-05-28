@@ -2,6 +2,7 @@
   {
     "bus_id": "bus_1001",
     "route_gid": "14",
+    "route_name": "Tumkur City Circle Route",
     "current_stop_gid": "stop_101",
     "lat": 13.332,
     "lon": 77.1015,
