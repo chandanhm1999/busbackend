@@ -2,6 +2,7 @@
   {
     "bus_id": "bus_1001",
     "route_gid": "14",
+    "trip_id": "1",
     "route_name": "Tumkur City Circle Route",
     "current_stop_gid": "stop_101",
     "lat": 13.332,
@@ -12,10 +13,24 @@
   },
   {
     "bus_id": "bus_1002",
-    "route_gid": "14",
-    "current_stop_gid": "stop_102",
+    "route_gid": "15",
+    "trip_id": "2",
+    "route_name": "Mallasandra Route",
+    "current_stop_gid": "stop_110",
     "lat": 13.3405,
     "lon": 77.1075,
+    "speed": 25,
+    "heading": 270,
+    "last_updated": "2025-05-28T09:31:00Z"
+  },
+  {
+    "bus_id": "bus_1003",
+    "route_gid": "16",
+    "trip_id": "3",
+    "route_name": "Kathsandra Route",
+    "current_stop_gid": "stop_115",
+    "lat": 13.3562,
+    "lon": 77.1161,
     "speed": 25,
     "heading": 270,
     "last_updated": "2025-05-28T09:31:00Z"

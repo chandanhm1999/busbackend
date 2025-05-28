@@ -1,6 +1,7 @@
 [
   {
     "stop_gid": "stop_101",
+    "trip_id": "1",
     "stop_name": "Tumkur Main Bus Stand",
     "stop_lat": 13.3317,
     "stop_lon": 77.1012,
@@ -10,6 +11,7 @@
   },
   {
     "stop_gid": "stop_102",
+    "trip_id": "1",
     "stop_name": "Ashoka Road",
     "stop_lat": 13.3335,
     "stop_lon": 77.1031,
@@ -19,6 +21,7 @@
   },
   {
     "stop_gid": "stop_103",
+    "trip_id": "1",
     "stop_name": "Tumkur Railway Station",
     "stop_lat": 13.3398,
     "stop_lon": 77.1057,
@@ -28,6 +31,7 @@
   },
   {
     "stop_gid": "stop_104",
+    "trip_id": "1",
     "stop_name": "SIT College",
     "stop_lat": 13.345,
     "stop_lon": 77.099,
@@ -37,11 +41,114 @@
   },
   {
     "stop_gid": "stop_105",
+    "trip_id": "1",
     "stop_name": "SS Puram",
     "stop_lat": 13.3492,
     "stop_lon": 77.0945,
     "stop_desc": "Residential area stop",
     "created_at": "2025-05-25T04:09:00.000-05:00",
     "updated_at": "2025-05-25T04:09:00.000-05:00"
+  },
+
+  {
+    "stop_gid": "stop_106",
+    "trip_id": "2",
+    "stop_name": "Mallasandra Cross",
+    "stop_lat": 13.345,
+    "stop_lon": 77.111,
+    "stop_desc": "Key junction at Mallasandra",
+    "created_at": "2025-05-25T04:05:27.941-05:00",
+    "updated_at": "2025-05-25T04:05:27.941-05:00"
+  },
+  {
+    "stop_gid": "stop_107",
+    "trip_id": "2",
+    "stop_name": "Mallasandra Main Bus Stop",
+    "stop_lat": 13.343,
+    "stop_lon": 77.1095,
+    "stop_desc": "Main bus stop in Mallasandra",
+    "created_at": "2025-05-25T04:05:27.941-05:00",
+    "updated_at": "2025-05-25T04:05:27.941-05:00"
+  },
+  {
+    "stop_gid": "stop_108",
+    "trip_id": "2",
+    "stop_name": "Mallasandra Industrial Area",
+    "stop_lat": 13.341,
+    "stop_lon": 77.108,
+    "stop_desc": "Industrial zone near Mallasandra",
+    "created_at": "2025-05-25T04:05:27.941-05:00",
+    "updated_at": "2025-05-25T04:05:27.941-05:00"
+  },
+  {
+    "stop_gid": "stop_109",
+    "trip_id": "2",
+    "stop_name": "Mallasandra Market",
+    "stop_lat": 13.339,
+    "stop_lon": 77.106,
+    "stop_desc": "Local market area",
+    "created_at": "2025-05-25T04:05:27.941-05:00",
+    "updated_at": "2025-05-25T04:05:27.941-05:00"
+  },
+  {
+    "stop_gid": "stop_110",
+    "trip_id": "2",
+    "stop_name": "Mallasandra Residential Area",
+    "stop_lat": 13.3405,
+    "stop_lon": 77.1075,
+    "stop_desc": "Residential neighborhood stop",
+    "created_at": "2025-05-25T04:05:27.941-05:00",
+    "updated_at": "2025-05-25T04:05:27.941-05:00"
+  },
+
+  {
+    "stop_gid": "stop_111",
+    "trip_id": "3",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3421,
+    "stop_lon": 77.1013,
+    "stop_desc": "Main terminal for city buses",
+    "created_at": "2025-05-28T05:01:00Z",
+    "updated_at": "2025-05-28T05:01:00Z"
+  },
+  {
+    "stop_gid": "stop_112",
+    "trip_id": "3",
+    "stop_name": "Shivakumara Swamiji Circle",
+    "stop_lat": 13.3445,
+    "stop_lon": 77.1042,
+    "stop_desc": "Traffic junction en route to Kathsandra",
+    "created_at": "2025-05-28T05:02:00Z",
+    "updated_at": "2025-05-28T05:02:00Z"
+  },
+  {
+    "stop_gid": "stop_113",
+    "trip_id": "3",
+    "stop_name": "Gubbi Road",
+    "stop_lat": 13.3489,
+    "stop_lon": 77.108,
+    "stop_desc": "Major road towards the outskirts",
+    "created_at": "2025-05-28T05:03:00Z",
+    "updated_at": "2025-05-28T05:03:00Z"
+  },
+  {
+    "stop_gid": "stop_114",
+    "trip_id": "3",
+    "stop_name": "Kathsandra Cross",
+    "stop_lat": 13.3527,
+    "stop_lon": 77.1135,
+    "stop_desc": "Entry point into Kathsandra",
+    "created_at": "2025-05-28T05:04:00Z",
+    "updated_at": "2025-05-28T05:04:00Z"
+  },
+  {
+    "stop_gid": "stop_115",
+    "trip_id": "3",
+    "stop_name": "Kathsandra Main",
+    "stop_lat": 13.3562,
+    "stop_lon": 77.1161,
+    "stop_desc": "Main residential stop inside Kathsandra",
+    "created_at": "2025-05-28T05:05:00Z",
+    "updated_at": "2025-05-28T05:05:00Z"
   }
 ]
