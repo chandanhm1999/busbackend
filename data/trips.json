@@ -1,0 +1,18 @@
+[
+  {
+    "trip_id": "trip_001",
+    "route_gid": "14",
+    "service_id": "weekday",
+    "trip_headsign": "Tumkur Main Bus Stand to Tumkur Court",
+    "direction_id": 0,
+    "shape_id": "shape_14_1"
+  },
+  {
+    "trip_id": "trip_002",
+    "route_gid": "14",
+    "service_id": "weekday",
+    "trip_headsign": "Tumkur Court to Tumkur Main Bus Stand",
+    "direction_id": 1,
+    "shape_id": "shape_14_2"
+  }
+]

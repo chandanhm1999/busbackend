@@ -1,0 +1,22 @@
+[
+  {
+    "bus_id": "bus_1001",
+    "route_gid": "14",
+    "current_stop_gid": "stop_101",
+    "lat": 13.332,
+    "lon": 77.1015,
+    "speed": 20,
+    "heading": 90,
+    "last_updated": "2025-05-28T09:30:00Z"
+  },
+  {
+    "bus_id": "bus_1002",
+    "route_gid": "14",
+    "current_stop_gid": "stop_102",
+    "lat": 13.3405,
+    "lon": 77.1075,
+    "speed": 25,
+    "heading": 270,
+    "last_updated": "2025-05-28T09:31:00Z"
+  }
+]
