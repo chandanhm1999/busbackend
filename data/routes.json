@@ -8,11 +8,67 @@
     "route_long_name": "Tumkur Main Line",
     "route_desc": "Main Tumkur city bus route",
     "route_type": "3",
-    "route_url": null,
     "route_color": "753CBE",
-    "route_text_color": "FFFFFF",
-    "route_sort_order": null,
-    "created_at": "2025-05-25T04:05:27.941-05:00",
-    "updated_at": "2025-05-25T04:05:27.941-05:00"
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "id": 2,
+    "route_gid": "21",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "route_short_name": "21",
+    "route_long_name": "Tumkur South Loop",
+    "route_desc": "Covers southern areas of Tumkur city",
+    "route_type": "3",
+    "route_color": "1E88E5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "id": 3,
+    "route_gid": "33",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "route_short_name": "33",
+    "route_long_name": "Tumkur Industrial Route",
+    "route_desc": "Serves the industrial zones and factories",
+    "route_type": "3",
+    "route_color": "43A047",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "id": 4,
+    "route_gid": "18",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "route_short_name": "18",
+    "route_long_name": "Tumkur Ring Road",
+    "route_desc": "Encircles Tumkur city through outer ring road",
+    "route_type": "3",
+    "route_color": "FB8C00",
+    "route_text_color": "000000"
+  },
+  {
+    "id": 5,
+    "route_gid": "27",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "route_short_name": "27",
+    "route_long_name": "Tumkur College Route",
+    "route_desc": "Connects major colleges and institutions in Tumkur",
+    "route_type": "3",
+    "route_color": "8E24AA",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "id": 6,
+    "route_gid": "45",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "route_short_name": "45",
+    "route_long_name": "Sidhartha Medical College Route",
+    "route_desc": "Route connecting the city with Sidhartha Medical College",
+    "route_type": "3",
+    "route_color": "D32F2F",
+    "route_text_color": "FFFFFF"
   }
 ]
