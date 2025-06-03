@@ -422,5 +422,188 @@
     "stop_desc": "Near industrial area",
     "arrival_time": "08:45:00",
     "departure_time": "08:45:00"
+  },
+
+  {
+    "stop_gid": "stop_801",
+    "trip_id": "20A",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3317,
+    "stop_lon": 77.1012,
+    "stop_desc": "Main terminal in Tumkur",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_802",
+    "trip_id": "20A",
+    "stop_name": "Gubbi Gate",
+    "stop_lat": 13.3281,
+    "stop_lon": 77.1053,
+    "stop_desc": "Junction near Tumkur entry",
+    "arrival_time": "08:05:00",
+    "departure_time": "08:05:00"
+  },
+  {
+    "stop_gid": "stop_803",
+    "trip_id": "20A",
+    "stop_name": "Upparahalli Cross",
+    "stop_lat": 13.324,
+    "stop_lon": 77.1085,
+    "stop_desc": "Crossroad to Upparahalli area",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_804",
+    "trip_id": "20A",
+    "stop_name": "Upparahalli Main",
+    "stop_lat": 13.3191,
+    "stop_lon": 77.1116,
+    "stop_desc": "Main locality in Upparahalli",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
+  },
+  {
+    "stop_gid": "stop_805",
+    "trip_id": "20A",
+    "stop_name": "Jayanagara 1st Stage",
+    "stop_lat": 13.3164,
+    "stop_lon": 77.1139,
+    "stop_desc": "Start of Jayanagara residential zone",
+    "arrival_time": "08:20:00",
+    "departure_time": "08:20:00"
+  },
+  {
+    "stop_gid": "stop_806",
+    "trip_id": "20A",
+    "stop_name": "Jayanagara Last Stop",
+    "stop_lat": 13.3132,
+    "stop_lon": 77.1161,
+    "stop_desc": "End stop at Jayanagara",
+    "arrival_time": "08:25:00",
+    "departure_time": "08:25:00"
+  },
+
+  {
+    "stop_gid": "stop_901",
+    "trip_id": "21A",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3317,
+    "stop_lon": 77.1012,
+    "stop_desc": "Main terminal in Tumkur",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_902",
+    "trip_id": "21A",
+    "stop_name": "Mallasandra Gate",
+    "stop_lat": 13.3144,
+    "stop_lon": 77.092,
+    "stop_desc": "Intersection towards Gulur",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_903",
+    "trip_id": "21A",
+    "stop_name": "Gulur Cross",
+    "stop_lat": 13.2862,
+    "stop_lon": 77.0905,
+    "stop_desc": "Entry point to Gulur village",
+    "arrival_time": "08:20:00",
+    "departure_time": "08:20:00"
+  },
+  {
+    "stop_gid": "stop_904",
+    "trip_id": "21A",
+    "stop_name": "Gulur Main",
+    "stop_lat": 13.2814,
+    "stop_lon": 77.0876,
+    "stop_desc": "Central stop in Gulur",
+    "arrival_time": "08:25:00",
+    "departure_time": "08:25:00"
+  },
+  {
+    "stop_gid": "stop_905",
+    "trip_id": "21A",
+    "stop_name": "Ethenahalli Cross",
+    "stop_lat": 13.2733,
+    "stop_lon": 77.0799,
+    "stop_desc": "Cross road near Ethenahalli",
+    "arrival_time": "08:30:00",
+    "departure_time": "08:30:00"
+  },
+  {
+    "stop_gid": "stop_906",
+    "trip_id": "21A",
+    "stop_name": "Ethenahalli Village",
+    "stop_lat": 13.2691,
+    "stop_lon": 77.0754,
+    "stop_desc": "Final village stop",
+    "arrival_time": "08:35:00",
+    "departure_time": "08:35:00"
+  },
+
+  {
+    "stop_gid": "stop_1001",
+    "trip_id": "22A",
+    "stop_name": "Mallasandra Bus Stop",
+    "stop_lat": 13.3135,
+    "stop_lon": 77.0892,
+    "stop_desc": "Starting point at Mallasandra",
+    "arrival_time": "07:40:00",
+    "departure_time": "07:40:00"
+  },
+  {
+    "stop_gid": "stop_1002",
+    "trip_id": "22A",
+    "stop_name": "Kyathasandra",
+    "stop_lat": 13.3189,
+    "stop_lon": 77.0923,
+    "stop_desc": "Next major stop",
+    "arrival_time": "07:45:00",
+    "departure_time": "07:45:00"
+  },
+  {
+    "stop_gid": "stop_1003",
+    "trip_id": "22A",
+    "stop_name": "Tumkur Railway Station",
+    "stop_lat": 13.3273,
+    "stop_lon": 77.0968,
+    "stop_desc": "Near Tumkur Railway Station",
+    "arrival_time": "07:55:00",
+    "departure_time": "07:55:00"
+  },
+  {
+    "stop_gid": "stop_1004",
+    "trip_id": "22A",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3317,
+    "stop_lon": 77.1012,
+    "stop_desc": "Main terminal",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_1005",
+    "trip_id": "22A",
+    "stop_name": "Herehalli Cross",
+    "stop_lat": 13.3435,
+    "stop_lon": 77.0983,
+    "stop_desc": "Herehalli road junction",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_1006",
+    "trip_id": "22A",
+    "stop_name": "Herehalli Village",
+    "stop_lat": 13.3497,
+    "stop_lon": 77.0961,
+    "stop_desc": "Final stop at Herehalli",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
   }
 ]

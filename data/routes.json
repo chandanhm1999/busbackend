@@ -80,5 +80,47 @@
     "route_type": "3",
     "route_color": "F39C12",
     "route_text_color": "000000"
+  },
+
+  {
+    "id": 7,
+    "route_gid": "20",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "20A",
+    "route_short_name": "20",
+    "route_long_name": "Tumkur - Upparahalli – Jayanagara",
+    "route_desc": "City route from Tumkur center through Upparahalli to Jayanagara",
+    "route_type": "3",
+    "route_color": "16A085",
+    "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 8,
+    "route_gid": "21",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "21A",
+    "route_short_name": "21",
+    "route_long_name": "Tumkur - Gulur - Ethenahalli",
+    "route_desc": "Route connecting Tumkur to Gulur and Ethenahalli villages",
+    "route_type": "3",
+    "route_color": "D35400",
+    "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 9,
+    "route_gid": "22",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "22A",
+    "route_short_name": "22",
+    "route_long_name": "Mallasandra - Tumkur - Herehalli",
+    "route_desc": "Route connecting Mallasandra to Tumkur and Herehalli",
+    "route_type": "3",
+    "route_color": "1ABC9C",
+    "route_text_color": "FFFFFF"
   }
 ]

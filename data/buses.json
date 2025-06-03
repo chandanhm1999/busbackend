@@ -146,5 +146,80 @@
     "speed": 16,
     "heading": 185,
     "last_updated": "2025-06-03T10:36:00Z"
+  },
+
+  {
+    "bus_id": "bus_2001",
+    "route_gid": "20",
+    "trip_id": "20A",
+    "route_name": "Tumkur - Upparahalli – Jayanagara",
+    "current_stop_gid": "stop_803",
+    "lat": 13.329,
+    "lon": 77.1083,
+    "speed": 18,
+    "heading": 180,
+    "last_updated": "2025-06-03T10:45:00Z"
+  },
+  {
+    "bus_id": "bus_2002",
+    "route_gid": "20",
+    "trip_id": "20A",
+    "route_name": "Tumkur - Upparahalli – Jayanagara",
+    "current_stop_gid": "stop_805",
+    "lat": 13.3164,
+    "lon": 77.1139,
+    "speed": 20,
+    "heading": 185,
+    "last_updated": "2025-06-03T10:46:00Z"
+  },
+
+  {
+    "bus_id": "bus_2101",
+    "route_gid": "21",
+    "trip_id": "21A",
+    "route_name": "Tumkur - Gulur - Ethenahalli",
+    "current_stop_gid": "stop_903",
+    "lat": 13.2862,
+    "lon": 77.0905,
+    "speed": 25,
+    "heading": 190,
+    "last_updated": "2025-06-03T11:10:00Z"
+  },
+  {
+    "bus_id": "bus_2102",
+    "route_gid": "21",
+    "trip_id": "21A",
+    "route_name": "Tumkur - Gulur - Ethenahalli",
+    "current_stop_gid": "stop_905",
+    "lat": 13.2733,
+    "lon": 77.0799,
+    "speed": 22,
+    "heading": 170,
+    "last_updated": "2025-06-03T11:12:00Z"
+  },
+
+  {
+    "bus_id": "bus_2201",
+    "route_gid": "22",
+    "trip_id": "22A",
+    "route_name": "Mallasandra - Tumkur - Herehalli",
+    "current_stop_gid": "stop_1003",
+    "lat": 13.3273,
+    "lon": 77.0968,
+    "speed": 26,
+    "heading": 170,
+    "last_updated": "2025-06-03T11:25:00Z"
+  },
+  {
+    "bus_id": "bus_2202",
+    "route_gid": "22",
+    "trip_id": "22A",
+    "route_name": "Mallasandra - Tumkur - Herehalli",
+    "current_stop_gid": "stop_1005",
+    "lat": 13.3497,
+    "lon": 77.0961,
+    "speed": 24,
+    "heading": 10,
+    "last_updated": "2025-06-03T11:28:00Z"
   }
 ]
