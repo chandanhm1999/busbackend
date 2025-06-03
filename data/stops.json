@@ -666,5 +666,66 @@
     "stop_desc": "Final stop in Dibbur village",
     "arrival_time": "08:40:00",
     "departure_time": "08:40:00"
+  },
+
+  {
+    "stop_gid": "stop_2501",
+    "trip_id": "25A",
+    "stop_name": "Goolarive Start Point",
+    "stop_lat": 13.3201,
+    "stop_lon": 77.0918,
+    "stop_desc": "Starting point at Goolarive",
+    "arrival_time": "07:40:00",
+    "departure_time": "07:40:00"
+  },
+  {
+    "stop_gid": "stop_2502",
+    "trip_id": "25A",
+    "stop_name": "Kyathasandra Cross",
+    "stop_lat": 13.3274,
+    "stop_lon": 77.0975,
+    "stop_desc": "Intersection near Kyathasandra",
+    "arrival_time": "07:45:00",
+    "departure_time": "07:45:00"
+  },
+  {
+    "stop_gid": "stop_2503",
+    "trip_id": "25A",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3398,
+    "stop_lon": 77.1075,
+    "stop_desc": "Main terminal in Tumkur",
+    "arrival_time": "07:55:00",
+    "departure_time": "07:55:00"
+  },
+  {
+    "stop_gid": "stop_2504",
+    "trip_id": "25A",
+    "stop_name": "Ashoka Road Junction",
+    "stop_lat": 13.3425,
+    "stop_lon": 77.1103,
+    "stop_desc": "Central Tumkur stop",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_2505",
+    "trip_id": "25A",
+    "stop_name": "Sira Road Circle",
+    "stop_lat": 13.3462,
+    "stop_lon": 77.1155,
+    "stop_desc": "On route to northern outskirts",
+    "arrival_time": "08:05:00",
+    "departure_time": "08:05:00"
+  },
+  {
+    "stop_gid": "stop_2506",
+    "trip_id": "25A",
+    "stop_name": "Swandenahalli Village End",
+    "stop_lat": 13.3585,
+    "stop_lon": 77.1292,
+    "stop_desc": "Last stop in Swandenahalli",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
   }
 ]

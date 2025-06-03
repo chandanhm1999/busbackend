@@ -150,5 +150,19 @@
     "route_type": "3",
     "route_color": "0097A7",
     "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 12,
+    "route_gid": "25",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "25A",
+    "route_short_name": "25",
+    "route_long_name": "Goolarive - Tumkur - Swandenahalli",
+    "route_desc": "Connects Goolarive through Tumkur to Swandenahalli",
+    "route_type": "3",
+    "route_color": "4CAF50",
+    "route_text_color": "FFFFFF"
   }
 ]

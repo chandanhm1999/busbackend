@@ -380,5 +380,42 @@
     "speed": 22,
     "heading": 87,
     "last_updated": "2025-06-03T12:12:00Z"
+  },
+
+  {
+    "bus_id": "bus_2501",
+    "route_gid": "25",
+    "trip_id": "25A",
+    "route_name": "Goolarive - Tumkur - Swandenahalli",
+    "current_stop_gid": "stop_2503",
+    "lat": 13.3398,
+    "lon": 77.1075,
+    "speed": 30,
+    "heading": 85,
+    "last_updated": "2025-06-03T12:20:00Z"
+  },
+  {
+    "bus_id": "bus_2502",
+    "route_gid": "25",
+    "trip_id": "25A",
+    "route_name": "Goolarive - Tumkur - Swandenahalli",
+    "current_stop_gid": "stop_2505",
+    "lat": 13.3462,
+    "lon": 77.1155,
+    "speed": 28,
+    "heading": 92,
+    "last_updated": "2025-06-03T12:18:00Z"
+  },
+  {
+    "bus_id": "bus_2503",
+    "route_gid": "25",
+    "trip_id": "25A",
+    "route_name": "Goolarive - Tumkur - Swandenahalli",
+    "current_stop_gid": "stop_2506",
+    "lat": 13.3585,
+    "lon": 77.1292,
+    "speed": 25,
+    "heading": 87,
+    "last_updated": "2025-06-03T12:15:00Z"
   }
 ]
