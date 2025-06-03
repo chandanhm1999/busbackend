@@ -22,5 +22,17 @@
     "speed": 30,
     "heading": 270,
     "last_updated": "2025-06-03T07:28:00Z"
+  },
+  {
+    "bus_id": "bus_1501",
+    "route_gid": "15",
+    "trip_id": "15A",
+    "route_name": "Shettihalli - Tumkur - Yellapura",
+    "current_stop_gid": "stop_303",
+    "lat": 13.3325,
+    "lon": 77.1029,
+    "speed": 28,
+    "heading": 75,
+    "last_updated": "2025-06-03T09:20:00Z"
   }
 ]

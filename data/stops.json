@@ -78,5 +78,66 @@
     "stop_desc": "Last stop in Heggere",
     "arrival_time": "08:25:00",
     "departure_time": "08:25:00"
+  },
+
+  {
+    "stop_gid": "stop_301",
+    "trip_id": "15A",
+    "stop_name": "Shettihalli Gate",
+    "stop_lat": 13.2872,
+    "stop_lon": 77.0834,
+    "stop_desc": "Starting point at Shettihalli",
+    "arrival_time": "07:30:00",
+    "departure_time": "07:30:00"
+  },
+  {
+    "stop_gid": "stop_302",
+    "trip_id": "15A",
+    "stop_name": "Maralur",
+    "stop_lat": 13.3041,
+    "stop_lon": 77.0899,
+    "stop_desc": "Residential area stop",
+    "arrival_time": "07:40:00",
+    "departure_time": "07:40:00"
+  },
+  {
+    "stop_gid": "stop_303",
+    "trip_id": "15A",
+    "stop_name": "Tumkur New Bus Stand",
+    "stop_lat": 13.3325,
+    "stop_lon": 77.1029,
+    "stop_desc": "Central city bus terminal",
+    "arrival_time": "07:55:00",
+    "departure_time": "07:55:00"
+  },
+  {
+    "stop_gid": "stop_304",
+    "trip_id": "15A",
+    "stop_name": "Kote Circle",
+    "stop_lat": 13.338,
+    "stop_lon": 77.1042,
+    "stop_desc": "Landmark junction in Tumkur",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_305",
+    "trip_id": "15A",
+    "stop_name": "Mandipet",
+    "stop_lat": 13.3453,
+    "stop_lon": 77.1085,
+    "stop_desc": "Busy market area stop",
+    "arrival_time": "08:05:00",
+    "departure_time": "08:05:00"
+  },
+  {
+    "stop_gid": "stop_306",
+    "trip_id": "15A",
+    "stop_name": "Yellapura Gate",
+    "stop_lat": 13.3602,
+    "stop_lon": 77.1127,
+    "stop_desc": "Last stop near Yellapura village",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
   }
 ]
