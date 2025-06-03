@@ -140,67 +140,64 @@
     "arrival_time": "08:15:00",
     "departure_time": "08:15:00"
   },
-
-  [
-    {
-      "stop_gid": "stop_401",
-      "trip_id": "16A",
-      "stop_name": "Oorukere Bus Stop",
-      "stop_lat": 13.3138,
-      "stop_lon": 77.0854,
-      "stop_desc": "Start point at Oorukere",
-      "arrival_time": "07:40:00",
-      "departure_time": "07:40:00"
-    },
-    {
-      "stop_gid": "stop_402",
-      "trip_id": "16A",
-      "stop_name": "Shivakumar Layout",
-      "stop_lat": 13.3254,
-      "stop_lon": 77.0912,
-      "stop_desc": "Residential area",
-      "arrival_time": "07:45:00",
-      "departure_time": "07:45:00"
-    },
-    {
-      "stop_gid": "stop_403",
-      "trip_id": "16A",
-      "stop_name": "SIT Tumkur Back Gate",
-      "stop_lat": 13.3298,
-      "stop_lon": 77.0971,
-      "stop_desc": "SIT campus access",
-      "arrival_time": "07:50:00",
-      "departure_time": "07:50:00"
-    },
-    {
-      "stop_gid": "stop_404",
-      "trip_id": "16A",
-      "stop_name": "Tumkur Railway Station",
-      "stop_lat": 13.3367,
-      "stop_lon": 77.1015,
-      "stop_desc": "City center stop",
-      "arrival_time": "08:00:00",
-      "departure_time": "08:00:00"
-    },
-    {
-      "stop_gid": "stop_405",
-      "trip_id": "16A",
-      "stop_name": "Maralur Cross",
-      "stop_lat": 13.3443,
-      "stop_lon": 77.1099,
-      "stop_desc": "Crossroad junction",
-      "arrival_time": "08:10:00",
-      "departure_time": "08:10:00"
-    },
-    {
-      "stop_gid": "stop_406",
-      "trip_id": "16A",
-      "stop_name": "Maralur Dinne Last Stop",
-      "stop_lat": 13.3489,
-      "stop_lon": 77.1163,
-      "stop_desc": "Last stop in Maralur Dinne",
-      "arrival_time": "08:15:00",
-      "departure_time": "08:15:00"
-    }
-  ]
+  {
+    "stop_gid": "stop_401",
+    "trip_id": "16A",
+    "stop_name": "Oorukere Bus Stop",
+    "stop_lat": 13.3138,
+    "stop_lon": 77.0854,
+    "stop_desc": "Start point at Oorukere",
+    "arrival_time": "07:40:00",
+    "departure_time": "07:40:00"
+  },
+  {
+    "stop_gid": "stop_402",
+    "trip_id": "16A",
+    "stop_name": "Shivakumar Layout",
+    "stop_lat": 13.3254,
+    "stop_lon": 77.0912,
+    "stop_desc": "Residential area",
+    "arrival_time": "07:45:00",
+    "departure_time": "07:45:00"
+  },
+  {
+    "stop_gid": "stop_403",
+    "trip_id": "16A",
+    "stop_name": "SIT Tumkur Back Gate",
+    "stop_lat": 13.3298,
+    "stop_lon": 77.0971,
+    "stop_desc": "SIT campus access",
+    "arrival_time": "07:50:00",
+    "departure_time": "07:50:00"
+  },
+  {
+    "stop_gid": "stop_404",
+    "trip_id": "16A",
+    "stop_name": "Tumkur Railway Station",
+    "stop_lat": 13.3367,
+    "stop_lon": 77.1015,
+    "stop_desc": "City center stop",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_405",
+    "trip_id": "16A",
+    "stop_name": "Maralur Cross",
+    "stop_lat": 13.3443,
+    "stop_lon": 77.1099,
+    "stop_desc": "Crossroad junction",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_406",
+    "trip_id": "16A",
+    "stop_name": "Maralur Dinne Last Stop",
+    "stop_lat": 13.3489,
+    "stop_lon": 77.1163,
+    "stop_desc": "Last stop in Maralur Dinne",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
+  }
 ]
