@@ -24,5 +24,19 @@
     "route_type": "3",
     "route_color": "1E90FF",
     "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 3,
+    "route_gid": "16",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "16A",
+    "route_short_name": "16",
+    "route_long_name": "Oorukere - Tumkur - Maralur Dinne",
+    "route_desc": "Route from Oorukere through Tumkur to Maralur Dinne",
+    "route_type": "3",
+    "route_color": "28A745",
+    "route_text_color": "FFFFFF"
   }
 ]

@@ -34,5 +34,42 @@
     "speed": 28,
     "heading": 75,
     "last_updated": "2025-06-03T09:20:00Z"
+  },
+
+  {
+    "bus_id": "bus_1601",
+    "route_gid": "16",
+    "trip_id": "16A",
+    "route_name": "Oorukere - Tumkur - Maralur Dinne",
+    "current_stop_gid": "stop_402",
+    "lat": 13.3254,
+    "lon": 77.0912,
+    "speed": 25,
+    "heading": 80,
+    "last_updated": "2025-06-03T10:00:00Z"
+  },
+  {
+    "bus_id": "bus_1602",
+    "route_gid": "16",
+    "trip_id": "16A",
+    "route_name": "Oorukere - Tumkur - Maralur Dinne",
+    "current_stop_gid": "stop_404",
+    "lat": 13.3367,
+    "lon": 77.1015,
+    "speed": 30,
+    "heading": 70,
+    "last_updated": "2025-06-03T10:01:00Z"
+  },
+  {
+    "bus_id": "bus_1603",
+    "route_gid": "16",
+    "trip_id": "16A",
+    "route_name": "Oorukere - Tumkur - Maralur Dinne",
+    "current_stop_gid": "stop_406",
+    "lat": 13.3489,
+    "lon": 77.1163,
+    "speed": 18,
+    "heading": 60,
+    "last_updated": "2025-06-03T10:02:00Z"
   }
 ]
