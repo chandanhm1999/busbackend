@@ -204,8 +204,8 @@
     "trip_id": "22A",
     "route_name": "Mallasandra - Tumkur - Herehalli",
     "current_stop_gid": "stop_1003",
-    "lat": 13.3273,
-    "lon": 77.0968,
+    "lat": 13.42125,
+    "lon": 76.9041,
     "speed": 26,
     "heading": 170,
     "last_updated": "2025-06-03T11:25:00Z"
@@ -216,8 +216,8 @@
     "trip_id": "22A",
     "route_name": "Mallasandra - Tumkur - Herehalli",
     "current_stop_gid": "stop_1005",
-    "lat": 13.3497,
-    "lon": 77.0961,
+    "lat": 13.2718,
+    "lon": 77.1801,
     "speed": 24,
     "heading": 10,
     "last_updated": "2025-06-03T11:28:00Z"

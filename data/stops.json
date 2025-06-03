@@ -550,8 +550,8 @@
     "stop_gid": "stop_1001",
     "trip_id": "22A",
     "stop_name": "Mallasandra Bus Stop",
-    "stop_lat": 13.3135,
-    "stop_lon": 77.0892,
+    "stop_lat": 13.42125,
+    "stop_lon": 77.9041,
     "stop_desc": "Starting point at Mallasandra",
     "arrival_time": "07:40:00",
     "departure_time": "07:40:00"
@@ -600,8 +600,8 @@
     "stop_gid": "stop_1006",
     "trip_id": "22A",
     "stop_name": "Herehalli Village",
-    "stop_lat": 13.3497,
-    "stop_lon": 77.0961,
+    "stop_lat": 13.2718,
+    "stop_lon": 77.1801,
     "stop_desc": "Final stop at Herehalli",
     "arrival_time": "08:15:00",
     "departure_time": "08:15:00"
