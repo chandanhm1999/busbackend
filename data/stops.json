@@ -3,8 +3,8 @@
     "stop_gid": "stop_201",
     "trip_id": "201A",
     "stop_name": "Kyathsandra Bus Stop",
-    "stop_lat": 13.3052,
-    "stop_lon": 77.1009,
+    "stop_lat": 13.3146,
+    "stop_lon": 77.1458,
     "stop_desc": "Starting point at Kyathsandra",
     "arrival_time": "07:45:00",
     "departure_time": "07:45:00"
@@ -13,8 +13,8 @@
     "stop_gid": "stop_202",
     "trip_id": "201A",
     "stop_name": "Batawadi",
-    "stop_lat": 13.3128,
-    "stop_lon": 77.1057,
+    "stop_lat": 13.3337,
+    "stop_lon": 77.132,
     "stop_desc": "Near industrial area",
     "arrival_time": "07:50:00",
     "departure_time": "07:50:00"
@@ -22,9 +22,9 @@
   {
     "stop_gid": "stop_203",
     "trip_id": "201A",
-    "stop_name": "SIT College",
-    "stop_lat": 13.3195,
-    "stop_lon": 77.1096,
+    "stop_name": "Siddaganga Institute of Technology",
+    "stop_lat": 13.3281,
+    "stop_lon": 77.1257,
     "stop_desc": "Siddaganga Institute of Technology",
     "arrival_time": "07:55:00",
     "departure_time": "07:55:00"
@@ -33,8 +33,8 @@
     "stop_gid": "stop_204",
     "trip_id": "201A",
     "stop_name": "Tumkur Main Bus Stand",
-    "stop_lat": 13.3317,
-    "stop_lon": 77.1012,
+    "stop_lat": 13.3412,
+    "stop_lon": 77.1025,
     "stop_desc": "Main bus terminal",
     "arrival_time": "08:00:00",
     "departure_time": "08:00:00"
@@ -42,21 +42,41 @@
   {
     "stop_gid": "stop_205",
     "trip_id": "201A",
-    "stop_name": "Heggere Cross",
-    "stop_lat": 13.3496,
-    "stop_lon": 77.1197,
-    "stop_desc": "Intersection before Heggere",
-    "arrival_time": "08:10:00",
-    "departure_time": "08:10:00"
+    "stop_name": "Sadashivanagar",
+    "stop_lat": 13.3293,
+    "stop_lon": 77.0881,
+    "stop_desc": "Residential area in Tumkur",
+    "arrival_time": "08:05:00",
+    "departure_time": "08:05:00"
   },
   {
     "stop_gid": "stop_206",
     "trip_id": "201A",
+    "stop_name": "Jayanagar South",
+    "stop_lat": 13.3179,
+    "stop_lon": 77.1114,
+    "stop_desc": "Residential area in Tumkur",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_207",
+    "trip_id": "201A",
+    "stop_name": "Heggere Cross",
+    "stop_lat": 13.2786,
+    "stop_lon": 76.6983,
+    "stop_desc": "Intersection before Heggere",
+    "arrival_time": "08:20:00",
+    "departure_time": "08:20:00"
+  },
+  {
+    "stop_gid": "stop_208",
+    "trip_id": "201A",
     "stop_name": "Heggere Village",
-    "stop_lat": 13.3547,
-    "stop_lon": 77.1248,
+    "stop_lat": 13.1608,
+    "stop_lon": 76.6665,
     "stop_desc": "Last stop in Heggere",
-    "arrival_time": "08:15:00",
-    "departure_time": "08:15:00"
+    "arrival_time": "08:25:00",
+    "departure_time": "08:25:00"
   }
 ]
