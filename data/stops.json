@@ -327,8 +327,8 @@
     "stop_gid": "stop_701",
     "trip_id": "19A",
     "stop_name": "Heggere Village",
-    "stop_lat": 13.3551,
-    "stop_lon": 77.1253,
+    "stop_lat": 13.2786,
+    "stop_lon": 76.6983,
     "stop_desc": "Origin at Heggere village",
     "arrival_time": "08:00:00",
     "departure_time": "08:00:00"
@@ -337,8 +337,8 @@
     "stop_gid": "stop_702",
     "trip_id": "19A",
     "stop_name": "Heggere Cross",
-    "stop_lat": 13.35,
-    "stop_lon": 77.1205,
+    "stop_lat": 13.2786,
+    "stop_lon": 76.6983,
     "stop_desc": "Main junction near Heggere",
     "arrival_time": "08:05:00",
     "departure_time": "08:05:00"
@@ -347,8 +347,8 @@
     "stop_gid": "stop_703",
     "trip_id": "19A",
     "stop_name": "Maralur",
-    "stop_lat": 13.3389,
-    "stop_lon": 77.115,
+    "stop_lat": 13.3181,
+    "stop_lon": 77.1032,
     "stop_desc": "Maralur residential stop",
     "arrival_time": "08:10:00",
     "departure_time": "08:10:00"
@@ -357,8 +357,8 @@
     "stop_gid": "stop_704",
     "trip_id": "19A",
     "stop_name": "Mallasandra",
-    "stop_lat": 13.332,
-    "stop_lon": 77.1102,
+    "stop_lat": 13.4213,
+    "stop_lon": 76.9041,
     "stop_desc": "Mallasandra suburb area",
     "arrival_time": "08:15:00",
     "departure_time": "08:15:00"
@@ -367,20 +367,60 @@
     "stop_gid": "stop_705",
     "trip_id": "19A",
     "stop_name": "Gubbi Gate",
-    "stop_lat": 13.3281,
-    "stop_lon": 77.1053,
+    "stop_lat": 13.3453,
+    "stop_lon": 77.09,
     "stop_desc": "City entry point from Gubbi side",
-    "arrival_time": "08:18:00",
-    "departure_time": "08:18:00"
+    "arrival_time": "08:20:00",
+    "departure_time": "08:20:00"
   },
   {
     "stop_gid": "stop_706",
     "trip_id": "19A",
     "stop_name": "Tumkur Main Bus Stand",
-    "stop_lat": 13.3317,
-    "stop_lon": 77.1012,
+    "stop_lat": 13.341,
+    "stop_lon": 77.1021,
     "stop_desc": "Main terminal in Tumkur",
     "arrival_time": "08:25:00",
     "departure_time": "08:25:00"
+  },
+  {
+    "stop_gid": "stop_707",
+    "trip_id": "19A",
+    "stop_name": "Sadashivanagar",
+    "stop_lat": 13.3293,
+    "stop_lon": 77.0881,
+    "stop_desc": "Residential area in Tumkur",
+    "arrival_time": "08:30:00",
+    "departure_time": "08:30:00"
+  },
+  {
+    "stop_gid": "stop_708",
+    "trip_id": "19A",
+    "stop_name": "Jayanagar South",
+    "stop_lat": 13.3179,
+    "stop_lon": 77.1114,
+    "stop_desc": "Residential area in Tumkur",
+    "arrival_time": "08:35:00",
+    "departure_time": "08:35:00"
+  },
+  {
+    "stop_gid": "stop_709",
+    "trip_id": "19A",
+    "stop_name": "Kyathsandra Bus Stop",
+    "stop_lat": 13.3146,
+    "stop_lon": 77.1458,
+    "stop_desc": "Bus stop in Kyathsandra",
+    "arrival_time": "08:40:00",
+    "departure_time": "08:40:00"
+  },
+  {
+    "stop_gid": "stop_710",
+    "trip_id": "19A",
+    "stop_name": "Batawadi",
+    "stop_lat": 13.3337,
+    "stop_lon": 77.132,
+    "stop_desc": "Near industrial area",
+    "arrival_time": "08:45:00",
+    "departure_time": "08:45:00"
   }
 ]
