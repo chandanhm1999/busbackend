@@ -321,5 +321,66 @@
     "stop_desc": "Last stop at Devarayapatna village",
     "arrival_time": "08:20:00",
     "departure_time": "08:20:00"
+  },
+
+  {
+    "stop_gid": "stop_701",
+    "trip_id": "19A",
+    "stop_name": "Heggere Village",
+    "stop_lat": 13.3551,
+    "stop_lon": 77.1253,
+    "stop_desc": "Origin at Heggere village",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_702",
+    "trip_id": "19A",
+    "stop_name": "Heggere Cross",
+    "stop_lat": 13.35,
+    "stop_lon": 77.1205,
+    "stop_desc": "Main junction near Heggere",
+    "arrival_time": "08:05:00",
+    "departure_time": "08:05:00"
+  },
+  {
+    "stop_gid": "stop_703",
+    "trip_id": "19A",
+    "stop_name": "Maralur",
+    "stop_lat": 13.3389,
+    "stop_lon": 77.115,
+    "stop_desc": "Maralur residential stop",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_704",
+    "trip_id": "19A",
+    "stop_name": "Mallasandra",
+    "stop_lat": 13.332,
+    "stop_lon": 77.1102,
+    "stop_desc": "Mallasandra suburb area",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
+  },
+  {
+    "stop_gid": "stop_705",
+    "trip_id": "19A",
+    "stop_name": "Gubbi Gate",
+    "stop_lat": 13.3281,
+    "stop_lon": 77.1053,
+    "stop_desc": "City entry point from Gubbi side",
+    "arrival_time": "08:18:00",
+    "departure_time": "08:18:00"
+  },
+  {
+    "stop_gid": "stop_706",
+    "trip_id": "19A",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3317,
+    "stop_lon": 77.1012,
+    "stop_desc": "Main terminal in Tumkur",
+    "arrival_time": "08:25:00",
+    "departure_time": "08:25:00"
   }
 ]

@@ -66,5 +66,19 @@
     "route_type": "3",
     "route_color": "28A745",
     "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 6,
+    "route_gid": "19",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "19A",
+    "route_short_name": "19",
+    "route_long_name": "Heggere - Tumkur",
+    "route_desc": "Connects Heggere village to Tumkur city center",
+    "route_type": "3",
+    "route_color": "F39C12",
+    "route_text_color": "000000"
   }
 ]
