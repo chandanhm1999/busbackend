@@ -122,5 +122,19 @@
     "route_type": "3",
     "route_color": "1ABC9C",
     "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 10,
+    "route_gid": "23",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "23A",
+    "route_short_name": "23",
+    "route_long_name": "Tumkur - Baddihalli / Honnenahalli",
+    "route_desc": "Route from Tumkur city to Baddihalli via Honnenahalli",
+    "route_type": "3",
+    "route_color": "8E44AD",
+    "route_text_color": "FFFFFF"
   }
 ]

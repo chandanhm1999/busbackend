@@ -221,5 +221,127 @@
     "speed": 24,
     "heading": 10,
     "last_updated": "2025-06-03T11:28:00Z"
+  },
+
+  {
+    "bus_id": "bus_2301",
+    "route_gid": "23",
+    "trip_id": "23A",
+    "route_name": "Tumkur - Baddihalli / Honnenahalli",
+    "current_stop_gid": "stop_2303",
+    "lat": 13.3392,
+    "lon": 77.1085,
+    "speed": 30,
+    "heading": 85,
+    "last_updated": "2025-06-03T11:40:00Z"
+  },
+  {
+    "bus_id": "bus_2302",
+    "route_gid": "23",
+    "trip_id": "23A",
+    "route_name": "Tumkur - Baddihalli / Honnenahalli",
+    "current_stop_gid": "stop_2304",
+    "lat": 13.3471,
+    "lon": 77.1157,
+    "speed": 28,
+    "heading": 95,
+    "last_updated": "2025-06-03T11:39:00Z"
+  },
+  {
+    "bus_id": "bus_2303",
+    "route_gid": "23",
+    "trip_id": "23A",
+    "route_name": "Tumkur - Baddihalli / Honnenahalli",
+    "current_stop_gid": "stop_2302",
+    "lat": 13.3335,
+    "lon": 77.1042,
+    "speed": 32,
+    "heading": 80,
+    "last_updated": "2025-06-03T11:38:00Z"
+  },
+  {
+    "bus_id": "bus_2304",
+    "route_gid": "23",
+    "trip_id": "23A",
+    "route_name": "Tumkur - Baddihalli / Honnenahalli",
+    "current_stop_gid": "stop_2305",
+    "lat": 13.3534,
+    "lon": 77.1213,
+    "speed": 25,
+    "heading": 100,
+    "last_updated": "2025-06-03T11:36:00Z"
+  },
+  {
+    "bus_id": "bus_2305",
+    "route_gid": "23",
+    "trip_id": "23A",
+    "route_name": "Tumkur - Baddihalli / Honnenahalli",
+    "current_stop_gid": "stop_2306",
+    "lat": 13.3582,
+    "lon": 77.1265,
+    "speed": 20,
+    "heading": 110,
+    "last_updated": "2025-06-03T11:35:00Z"
+  },
+
+  {
+    "stop_gid": "stop_2301",
+    "trip_id": "23A",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3317,
+    "stop_lon": 77.1012,
+    "stop_desc": "Main terminal in Tumkur",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_2302",
+    "trip_id": "23A",
+    "stop_name": "Shivakumar Swamiji Circle",
+    "stop_lat": 13.3335,
+    "stop_lon": 77.1042,
+    "stop_desc": "Popular junction in Tumkur",
+    "arrival_time": "08:05:00",
+    "departure_time": "08:05:00"
+  },
+  {
+    "stop_gid": "stop_2303",
+    "trip_id": "23A",
+    "stop_name": "Lakshmi Theatre",
+    "stop_lat": 13.3392,
+    "stop_lon": 77.1085,
+    "stop_desc": "Near Lakshmi theatre complex",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_2304",
+    "trip_id": "23A",
+    "stop_name": "Honnenahalli Cross",
+    "stop_lat": 13.3471,
+    "stop_lon": 77.1157,
+    "stop_desc": "Junction for Honnenahalli",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
+  },
+  {
+    "stop_gid": "stop_2305",
+    "trip_id": "23A",
+    "stop_name": "Baddihalli School Stop",
+    "stop_lat": 13.3534,
+    "stop_lon": 77.1213,
+    "stop_desc": "Near the village school",
+    "arrival_time": "08:20:00",
+    "departure_time": "08:20:00"
+  },
+  {
+    "stop_gid": "stop_2306",
+    "trip_id": "23A",
+    "stop_name": "Baddihalli Village End",
+    "stop_lat": 13.3582,
+    "stop_lon": 77.1265,
+    "stop_desc": "Final stop in Baddihalli",
+    "arrival_time": "08:25:00",
+    "departure_time": "08:25:00"
   }
 ]
