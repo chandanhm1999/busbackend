@@ -199,5 +199,127 @@
     "stop_desc": "Last stop in Maralur Dinne",
     "arrival_time": "08:15:00",
     "departure_time": "08:15:00"
+  },
+
+  {
+    "stop_gid": "stop_501",
+    "trip_id": "17A",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3317,
+    "stop_lon": 77.1012,
+    "stop_desc": "Main terminal in Tumkur",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_502",
+    "trip_id": "17A",
+    "stop_name": "District Court Circle",
+    "stop_lat": 13.3302,
+    "stop_lon": 77.1027,
+    "stop_desc": "Near the court complex",
+    "arrival_time": "08:03:00",
+    "departure_time": "08:03:00"
+  },
+  {
+    "stop_gid": "stop_503",
+    "trip_id": "17A",
+    "stop_name": "DC Office Tumkur",
+    "stop_lat": 13.3307,
+    "stop_lon": 77.1013,
+    "stop_desc": "District administrative office",
+    "arrival_time": "08:06:00",
+    "departure_time": "08:06:00"
+  },
+  {
+    "stop_gid": "stop_504",
+    "trip_id": "17A",
+    "stop_name": "B.H. Road Junction",
+    "stop_lat": 13.3267,
+    "stop_lon": 77.1049,
+    "stop_desc": "B.H. Road junction towards Siddaganga",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_505",
+    "trip_id": "17A",
+    "stop_name": "Siddaganga Hospital",
+    "stop_lat": 13.3231,
+    "stop_lon": 77.1085,
+    "stop_desc": "Near Siddaganga hospital",
+    "arrival_time": "08:13:00",
+    "departure_time": "08:13:00"
+  },
+  {
+    "stop_gid": "stop_506",
+    "trip_id": "17A",
+    "stop_name": "Siddaganga Mutt Gate",
+    "stop_lat": 13.3202,
+    "stop_lon": 77.1102,
+    "stop_desc": "Last stop at Siddaganga Mutt entrance",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
+  },
+
+  {
+    "stop_gid": "stop_601",
+    "trip_id": "18A",
+    "stop_name": "Tumkur Main Bus Stand",
+    "stop_lat": 13.3317,
+    "stop_lon": 77.1012,
+    "stop_desc": "Main terminal in Tumkur",
+    "arrival_time": "08:00:00",
+    "departure_time": "08:00:00"
+  },
+  {
+    "stop_gid": "stop_602",
+    "trip_id": "18A",
+    "stop_name": "SIT Main Gate",
+    "stop_lat": 13.32,
+    "stop_lon": 77.1068,
+    "stop_desc": "Front side of Siddaganga Institute of Technology",
+    "arrival_time": "08:05:00",
+    "departure_time": "08:05:00"
+  },
+  {
+    "stop_gid": "stop_603",
+    "trip_id": "18A",
+    "stop_name": "SIT Back Gate",
+    "stop_lat": 13.3193,
+    "stop_lon": 77.1094,
+    "stop_desc": "Back entrance to SIT campus",
+    "arrival_time": "08:08:00",
+    "departure_time": "08:08:00"
+  },
+  {
+    "stop_gid": "stop_604",
+    "trip_id": "18A",
+    "stop_name": "Gandhinagar",
+    "stop_lat": 13.3181,
+    "stop_lon": 77.1122,
+    "stop_desc": "Residential area near SIT",
+    "arrival_time": "08:11:00",
+    "departure_time": "08:11:00"
+  },
+  {
+    "stop_gid": "stop_605",
+    "trip_id": "18A",
+    "stop_name": "Halegondanahalli",
+    "stop_lat": 13.3238,
+    "stop_lon": 77.1135,
+    "stop_desc": "Intermediate stop toward Devarayapatna",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
+  },
+  {
+    "stop_gid": "stop_606",
+    "trip_id": "18A",
+    "stop_name": "Devarayapatna",
+    "stop_lat": 13.3285,
+    "stop_lon": 77.1189,
+    "stop_desc": "Last stop at Devarayapatna village",
+    "arrival_time": "08:20:00",
+    "departure_time": "08:20:00"
   }
 ]

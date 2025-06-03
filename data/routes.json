@@ -38,5 +38,33 @@
     "route_type": "3",
     "route_color": "28A745",
     "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 4,
+    "route_gid": "17",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "17A",
+    "route_short_name": "17",
+    "route_long_name": "Tumkur - DC Office - Siddaganga Mutt",
+    "route_desc": "Connects Tumkur city to Siddaganga Mutt via DC Office",
+    "route_type": "3",
+    "route_color": "DC3545",
+    "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 5,
+    "route_gid": "18",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "18A",
+    "route_short_name": "18",
+    "route_long_name": "Tumkur - SIT Back Gate - Devarayapatna",
+    "route_desc": "Covers Tumkur to Devarayapatna via SIT College back gate",
+    "route_type": "3",
+    "route_color": "28A745",
+    "route_text_color": "FFFFFF"
   }
 ]

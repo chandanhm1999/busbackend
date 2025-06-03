@@ -71,5 +71,55 @@
     "speed": 18,
     "heading": 60,
     "last_updated": "2025-06-03T10:02:00Z"
+  },
+
+  {
+    "bus_id": "bus_1701",
+    "route_gid": "17",
+    "trip_id": "17A",
+    "route_name": "Tumkur - DC Office - Siddaganga Mutt",
+    "current_stop_gid": "stop_503",
+    "lat": 13.3307,
+    "lon": 77.1013,
+    "speed": 22,
+    "heading": 100,
+    "last_updated": "2025-06-03T10:10:00Z"
+  },
+  {
+    "bus_id": "bus_1702",
+    "route_gid": "17",
+    "trip_id": "17A",
+    "route_name": "Tumkur - DC Office - Siddaganga Mutt",
+    "current_stop_gid": "stop_505",
+    "lat": 13.3231,
+    "lon": 77.1085,
+    "speed": 26,
+    "heading": 95,
+    "last_updated": "2025-06-03T10:12:00Z"
+  },
+
+  {
+    "bus_id": "bus_1801",
+    "route_gid": "18",
+    "trip_id": "18A",
+    "route_name": "Tumkur - SIT Back Gate - Devarayapatna",
+    "current_stop_gid": "stop_605",
+    "lat": 13.3238,
+    "lon": 77.1135,
+    "speed": 18,
+    "heading": 85,
+    "last_updated": "2025-06-03T10:18:00Z"
+  },
+  {
+    "bus_id": "bus_1802",
+    "route_gid": "18",
+    "trip_id": "18A",
+    "route_name": "Tumkur - SIT Back Gate - Devarayapatna",
+    "current_stop_gid": "stop_603",
+    "lat": 13.3193,
+    "lon": 77.1094,
+    "speed": 24,
+    "heading": 110,
+    "last_updated": "2025-06-03T10:19:30Z"
   }
 ]
