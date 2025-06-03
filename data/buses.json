@@ -129,8 +129,8 @@
     "trip_id": "19A",
     "route_name": "Heggere - Tumkur",
     "current_stop_gid": "stop_706",
-    "lat": 13.3475,
-    "lon": 77.1218,
+    "lat": 13.343,
+    "lon": 77.0484,
     "speed": 22,
     "heading": 180,
     "last_updated": "2025-06-03T10:35:00Z"
@@ -141,8 +141,8 @@
     "trip_id": "19A",
     "route_name": "Heggere - Tumkur",
     "current_stop_gid": "stop_703",
-    "lat": 13.3284,
-    "lon": 77.1076,
+    "lat": 13.348,
+    "lon": 77.0488,
     "speed": 16,
     "heading": 185,
     "last_updated": "2025-06-03T10:36:00Z"
