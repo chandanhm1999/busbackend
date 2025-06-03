@@ -1,62 +1,26 @@
 [
   {
-    "bus_id": "bus_1001",
-    "route_gid": "14",
-    "trip_id": "1",
-    "route_name": "Tumkur City Circle Route",
-    "current_stop_gid": "stop_101",
-    "lat": 13.332,
-    "lon": 77.1015,
-    "speed": 20,
+    "bus_id": "bus_2011",
+    "route_gid": "201",
+    "trip_id": "201A",
+    "route_name": "Kyathsandra - Tumkur - Heggere",
+    "current_stop_gid": "stop_203",
+    "lat": 13.32,
+    "lon": 77.11,
+    "speed": 35,
     "heading": 90,
-    "last_updated": "2025-05-28T09:30:00Z"
+    "last_updated": "2025-06-03T07:30:00Z"
   },
   {
-    "bus_id": "bus_1002",
-    "route_gid": "21",
-    "trip_id": "2",
-    "route_name": "Mallasandra Route",
-    "current_stop_gid": "stop_110",
-    "lat": 13.3405,
-    "lon": 77.1075,
-    "speed": 25,
+    "bus_id": "bus_2012",
+    "route_gid": "201",
+    "trip_id": "201A",
+    "route_name": "Kyathsandra - Tumkur - Heggere",
+    "current_stop_gid": "stop_205",
+    "lat": 13.35,
+    "lon": 77.12,
+    "speed": 30,
     "heading": 270,
-    "last_updated": "2025-05-28T09:31:00Z"
-  },
-  {
-    "bus_id": "bus_1003",
-    "route_gid": "23",
-    "trip_id": "3",
-    "route_name": "Kathsandra Route",
-    "current_stop_gid": "stop_115",
-    "lat": 13.3562,
-    "lon": 77.1161,
-    "speed": 25,
-    "heading": 270,
-    "last_updated": "2025-05-28T09:31:00Z"
-  },
-  {
-    "bus_id": "bus_1004",
-    "route_gid": "18",
-    "trip_id": "4",
-    "route_name": "Tumkur Ring Road",
-    "current_stop_gid": "stop_120",
-    "lat": 13.3572,
-    "lon": 77.1101,
-    "speed": 25,
-    "heading": 270,
-    "last_updated": "2025-05-28T09:31:00Z"
-  },
-  {
-    "bus_id": "bus_1005",
-    "route_gid": "45",
-    "trip_id": "10",
-    "route_name": "Sidhartha Medical College Route",
-    "current_stop_gid": "stop_150",
-    "lat": 13.34,
-    "lon": 77.105,
-    "speed": 18,
-    "heading": 180,
-    "last_updated": "2025-05-28T10:00:00Z"
+    "last_updated": "2025-06-03T07:28:00Z"
   }
 ]

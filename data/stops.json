@@ -1,7 +1,37 @@
 [
   {
-    "stop_gid": "stop_101",
-    "trip_id": "1",
+    "stop_gid": "stop_201",
+    "trip_id": "201A",
+    "stop_name": "Kyathsandra Bus Stop",
+    "stop_lat": 13.305,
+    "stop_lon": 77.101,
+    "stop_desc": "Starting point at Kyathsandra",
+    "arrival_time": "07:45:00",
+    "departure_time": "07:45:00"
+  },
+  {
+    "stop_gid": "stop_202",
+    "trip_id": "201A",
+    "stop_name": "Batawadi",
+    "stop_lat": 13.313,
+    "stop_lon": 77.106,
+    "stop_desc": "Near industrial area",
+    "arrival_time": "07:50:00",
+    "departure_time": "07:50:00"
+  },
+  {
+    "stop_gid": "stop_203",
+    "trip_id": "201A",
+    "stop_name": "SIT College",
+    "stop_lat": 13.32,
+    "stop_lon": 77.11,
+    "stop_desc": "Siddaganga Institute of Technology",
+    "arrival_time": "07:55:00",
+    "departure_time": "07:55:00"
+  },
+  {
+    "stop_gid": "stop_204",
+    "trip_id": "201A",
     "stop_name": "Tumkur Main Bus Stand",
     "stop_lat": 13.3317,
     "stop_lon": 77.1012,
@@ -10,245 +40,23 @@
     "departure_time": "08:00:00"
   },
   {
-    "stop_gid": "stop_102",
-    "trip_id": "1",
-    "stop_name": "Ashoka Road",
-    "stop_lat": 13.3335,
-    "stop_lon": 77.1031,
-    "stop_desc": "Commercial street with shops",
-    "arrival_time": "08:05:00",
-    "departure_time": "08:05:00"
-  },
-  {
-    "stop_gid": "stop_103",
-    "trip_id": "1",
-    "stop_name": "Tumkur Railway Station",
-    "stop_lat": 13.3398,
-    "stop_lon": 77.1057,
-    "stop_desc": "Train connectivity point",
+    "stop_gid": "stop_205",
+    "trip_id": "201A",
+    "stop_name": "Heggere Cross",
+    "stop_lat": 13.35,
+    "stop_lon": 77.12,
+    "stop_desc": "Intersection before Heggere",
     "arrival_time": "08:10:00",
     "departure_time": "08:10:00"
   },
   {
-    "stop_gid": "stop_104",
-    "trip_id": "1",
-    "stop_name": "SIT College",
-    "stop_lat": 13.345,
-    "stop_lon": 77.099,
-    "stop_desc": "College stop for students",
+    "stop_gid": "stop_206",
+    "trip_id": "201A",
+    "stop_name": "Heggere Village",
+    "stop_lat": 13.355,
+    "stop_lon": 77.125,
+    "stop_desc": "Last stop in Heggere",
     "arrival_time": "08:15:00",
     "departure_time": "08:15:00"
-  },
-  {
-    "stop_gid": "stop_105",
-    "trip_id": "1",
-    "stop_name": "SS Puram",
-    "stop_lat": 13.3492,
-    "stop_lon": 77.0945,
-    "stop_desc": "Residential area stop",
-    "arrival_time": "08:20:00",
-    "departure_time": "08:20:00"
-  },
-
-  {
-    "stop_gid": "stop_106",
-    "trip_id": "2",
-    "stop_name": "Mallasandra Cross",
-    "stop_lat": 13.345,
-    "stop_lon": 77.111,
-    "stop_desc": "Key junction at Mallasandra",
-    "arrival_time": "09:00:00",
-    "departure_time": "09:00:00"
-  },
-  {
-    "stop_gid": "stop_107",
-    "trip_id": "2",
-    "stop_name": "Mallasandra Main Bus Stop",
-    "stop_lat": 13.343,
-    "stop_lon": 77.1095,
-    "stop_desc": "Main bus stop in Mallasandra",
-    "arrival_time": "09:05:00",
-    "departure_time": "09:05:00"
-  },
-  {
-    "stop_gid": "stop_108",
-    "trip_id": "2",
-    "stop_name": "Mallasandra Industrial Area",
-    "stop_lat": 13.341,
-    "stop_lon": 77.108,
-    "stop_desc": "Industrial zone near Mallasandra",
-    "arrival_time": "09:10:00",
-    "departure_time": "09:10:00"
-  },
-  {
-    "stop_gid": "stop_109",
-    "trip_id": "2",
-    "stop_name": "Mallasandra Market",
-    "stop_lat": 13.339,
-    "stop_lon": 77.106,
-    "stop_desc": "Local market area",
-    "arrival_time": "09:15:00",
-    "departure_time": "09:15:00"
-  },
-  {
-    "stop_gid": "stop_110",
-    "trip_id": "2",
-    "stop_name": "Mallasandra Residential Area",
-    "stop_lat": 13.3405,
-    "stop_lon": 77.1075,
-    "stop_desc": "Residential neighborhood stop",
-    "arrival_time": "09:20:00",
-    "departure_time": "09:20:00"
-  },
-
-  {
-    "stop_gid": "stop_111",
-    "trip_id": "3",
-    "stop_name": "Tumkur Main Bus Stand",
-    "stop_lat": 13.3421,
-    "stop_lon": 77.1013,
-    "stop_desc": "Main terminal for city buses",
-    "arrival_time": "10:00:00",
-    "departure_time": "10:00:00"
-  },
-  {
-    "stop_gid": "stop_112",
-    "trip_id": "3",
-    "stop_name": "Shivakumara Swamiji Circle",
-    "stop_lat": 13.3445,
-    "stop_lon": 77.1042,
-    "stop_desc": "Traffic junction en route to Kathsandra",
-    "arrival_time": "10:05:00",
-    "departure_time": "10:05:00"
-  },
-  {
-    "stop_gid": "stop_113",
-    "trip_id": "3",
-    "stop_name": "Gubbi Road",
-    "stop_lat": 13.3489,
-    "stop_lon": 77.108,
-    "stop_desc": "Major road towards the outskirts",
-    "arrival_time": "10:10:00",
-    "departure_time": "10:10:00"
-  },
-  {
-    "stop_gid": "stop_114",
-    "trip_id": "3",
-    "stop_name": "Kathsandra Cross",
-    "stop_lat": 13.3527,
-    "stop_lon": 77.1135,
-    "stop_desc": "Entry point into Kathsandra",
-    "arrival_time": "10:15:00",
-    "departure_time": "10:15:00"
-  },
-  {
-    "stop_gid": "stop_115",
-    "trip_id": "3",
-    "stop_name": "Kathsandra Main",
-    "stop_lat": 13.3562,
-    "stop_lon": 77.1161,
-    "stop_desc": "Main residential stop inside Kathsandra",
-    "arrival_time": "10:20:00",
-    "departure_time": "10:20:00"
-  },
-  {
-    "stop_gid": "stop_120",
-    "trip_id": "4",
-    "stop_name": "SP Office",
-    "stop_lat": 13.3572,
-    "stop_lon": 77.1101,
-    "stop_desc": "Stop near the Superintendent of Police Office",
-    "arrival_time": "09:30:00",
-    "departure_time": "09:32:00"
-  },
-  {
-    "stop_gid": "stop_121",
-    "trip_id": "4",
-    "stop_name": "Ring Road Junction",
-    "stop_lat": 13.355,
-    "stop_lon": 77.1125,
-    "stop_desc": "Main junction on the ring road",
-    "arrival_time": "09:35:00",
-    "departure_time": "09:36:00"
-  },
-  {
-    "stop_gid": "stop_122",
-    "trip_id": "4",
-    "stop_name": "Kathsandra Main",
-    "stop_lat": 13.3562,
-    "stop_lon": 77.1161,
-    "stop_desc": "Main residential stop inside Kathsandra",
-    "arrival_time": "09:40:00",
-    "departure_time": "09:41:00"
-  },
-  {
-    "stop_gid": "stop_123",
-    "trip_id": "4",
-    "stop_name": "Tumkur Bus Stand",
-    "stop_lat": 13.3545,
-    "stop_lon": 77.118,
-    "stop_desc": "Central bus stand of Tumkur city",
-    "arrival_time": "09:45:00",
-    "departure_time": "09:47:00"
-  },
-  {
-    "stop_gid": "stop_124",
-    "trip_id": "4",
-    "stop_name": "Ring Road Park",
-    "stop_lat": 13.3528,
-    "stop_lon": 77.12,
-    "stop_desc": "Park adjacent to the ring road",
-    "arrival_time": "09:50:00",
-    "departure_time": "09:52:00"
-  },
-  {
-    "stop_gid": "stop_150",
-    "trip_id": "10",
-    "stop_name": "City Bus Stand",
-    "stop_lat": 13.342,
-    "stop_lon": 77.1065,
-    "stop_desc": "Main bus stand in Tumkur city center",
-    "arrival_time": "10:00:00",
-    "departure_time": "10:02:00"
-  },
-  {
-    "stop_gid": "stop_151",
-    "trip_id": "10",
-    "stop_name": "Market Square",
-    "stop_lat": 13.3412,
-    "stop_lon": 77.104,
-    "stop_desc": "Central market area",
-    "arrival_time": "10:07:00",
-    "departure_time": "10:08:00"
-  },
-  {
-    "stop_gid": "stop_152",
-    "trip_id": "10",
-    "stop_name": "Central Hospital",
-    "stop_lat": 13.339,
-    "stop_lon": 77.103,
-    "stop_desc": "Major hospital near the medical college route",
-    "arrival_time": "10:12:00",
-    "departure_time": "10:13:00"
-  },
-  {
-    "stop_gid": "stop_153",
-    "trip_id": "10",
-    "stop_name": "Sidhartha Medical College Main Gate",
-    "stop_lat": 13.3375,
-    "stop_lon": 77.102,
-    "stop_desc": "Main entrance of Sidhartha Medical College",
-    "arrival_time": "10:17:00",
-    "departure_time": "10:19:00"
-  },
-  {
-    "stop_gid": "stop_154",
-    "trip_id": "10",
-    "stop_name": "Medical College Hostel",
-    "stop_lat": 13.335,
-    "stop_lon": 77.1,
-    "stop_desc": "Hostel area inside Sidhartha Medical College campus",
-    "arrival_time": "10:22:00",
-    "departure_time": "10:23:00"
   }
 ]
