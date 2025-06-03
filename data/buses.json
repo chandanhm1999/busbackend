@@ -343,5 +343,42 @@
     "stop_desc": "Final stop in Baddihalli",
     "arrival_time": "08:25:00",
     "departure_time": "08:25:00"
+  },
+
+  {
+    "bus_id": "bus_2401",
+    "route_gid": "24",
+    "trip_id": "24A",
+    "route_name": "Goolarive - Tumkur – Dibbur",
+    "current_stop_gid": "stop_2403",
+    "lat": 13.3394,
+    "lon": 77.1068,
+    "speed": 33,
+    "heading": 90,
+    "last_updated": "2025-06-03T12:15:00Z"
+  },
+  {
+    "bus_id": "bus_2402",
+    "route_gid": "24",
+    "trip_id": "24A",
+    "route_name": "Goolarive - Tumkur – Dibbur",
+    "current_stop_gid": "stop_2405",
+    "lat": 13.3452,
+    "lon": 77.1162,
+    "speed": 26,
+    "heading": 95,
+    "last_updated": "2025-06-03T12:13:00Z"
+  },
+  {
+    "bus_id": "bus_2403",
+    "route_gid": "24",
+    "trip_id": "24A",
+    "route_name": "Goolarive - Tumkur – Dibbur",
+    "current_stop_gid": "stop_2406",
+    "lat": 13.3507,
+    "lon": 77.1234,
+    "speed": 22,
+    "heading": 87,
+    "last_updated": "2025-06-03T12:12:00Z"
   }
 ]

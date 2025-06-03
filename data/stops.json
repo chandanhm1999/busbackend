@@ -605,5 +605,66 @@
     "stop_desc": "Final stop at Herehalli",
     "arrival_time": "08:15:00",
     "departure_time": "08:15:00"
+  },
+
+  {
+    "stop_gid": "stop_2401",
+    "trip_id": "24A",
+    "stop_name": "Goolarive Village Start",
+    "stop_lat": 13.3202,
+    "stop_lon": 77.0923,
+    "stop_desc": "Starting point in Goolarive",
+    "arrival_time": "08:10:00",
+    "departure_time": "08:10:00"
+  },
+  {
+    "stop_gid": "stop_2402",
+    "trip_id": "24A",
+    "stop_name": "Kyathasandra Cross",
+    "stop_lat": 13.3275,
+    "stop_lon": 77.0968,
+    "stop_desc": "Intersection near Kyathasandra",
+    "arrival_time": "08:15:00",
+    "departure_time": "08:15:00"
+  },
+  {
+    "stop_gid": "stop_2403",
+    "trip_id": "24A",
+    "stop_name": "Tumkur Railway Station",
+    "stop_lat": 13.3394,
+    "stop_lon": 77.1068,
+    "stop_desc": "Railway Station stop in Tumkur",
+    "arrival_time": "08:25:00",
+    "departure_time": "08:25:00"
+  },
+  {
+    "stop_gid": "stop_2404",
+    "trip_id": "24A",
+    "stop_name": "Ashoka Road",
+    "stop_lat": 13.3415,
+    "stop_lon": 77.1093,
+    "stop_desc": "Busy stop near Ashoka Road",
+    "arrival_time": "08:30:00",
+    "departure_time": "08:30:00"
+  },
+  {
+    "stop_gid": "stop_2405",
+    "trip_id": "24A",
+    "stop_name": "Sira Gate",
+    "stop_lat": 13.3452,
+    "stop_lon": 77.1162,
+    "stop_desc": "North Tumkur exit",
+    "arrival_time": "08:35:00",
+    "departure_time": "08:35:00"
+  },
+  {
+    "stop_gid": "stop_2406",
+    "trip_id": "24A",
+    "stop_name": "Dibbur Last Stop",
+    "stop_lat": 13.3507,
+    "stop_lon": 77.1234,
+    "stop_desc": "Final stop in Dibbur village",
+    "arrival_time": "08:40:00",
+    "departure_time": "08:40:00"
   }
 ]

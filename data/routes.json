@@ -136,5 +136,19 @@
     "route_type": "3",
     "route_color": "8E44AD",
     "route_text_color": "FFFFFF"
+  },
+
+  {
+    "id": 11,
+    "route_gid": "24",
+    "agency_gid": "Tumkur Transit",
+    "agency_id": 101,
+    "trip_id": "24A",
+    "route_short_name": "24",
+    "route_long_name": "Goolarive - Tumkur – Dibbur",
+    "route_desc": "Route covering Goolarive to Dibbur via Tumkur",
+    "route_type": "3",
+    "route_color": "0097A7",
+    "route_text_color": "FFFFFF"
   }
 ]
